@@ -77,7 +77,6 @@
     String day2_icon2 = "image/b_"+reply[16];
     String day3_icon1 = "image/b_"+reply[20];
     String day3_icon2 = "image/b_"+reply[21];
-    String day_icon = "image/b_nothing.gif";
 %>
 <div class="container1">
     <form action="./" class="parent" method="post">
